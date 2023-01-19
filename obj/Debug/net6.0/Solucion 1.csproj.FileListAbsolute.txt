@@ -1,0 +1,15 @@
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\bin\Debug\net6.0\Solucion 1.exe
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\bin\Debug\net6.0\Solucion 1.deps.json
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\bin\Debug\net6.0\Solucion 1.runtimeconfig.json
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\bin\Debug\net6.0\Solucion 1.dll
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\bin\Debug\net6.0\Solucion 1.pdb
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\obj\Debug\net6.0\Solucion 1.csproj.AssemblyReference.cache
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\obj\Debug\net6.0\Solucion 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\obj\Debug\net6.0\Solucion 1.AssemblyInfoInputs.cache
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\obj\Debug\net6.0\Solucion 1.AssemblyInfo.cs
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\obj\Debug\net6.0\Solucion 1.csproj.CoreCompileInputs.cache
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\obj\Debug\net6.0\Solucion 1.dll
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\obj\Debug\net6.0\refint\Solucion 1.dll
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\obj\Debug\net6.0\Solucion 1.pdb
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\obj\Debug\net6.0\Solucion 1.genruntimeconfig.cache
+C:\Users\jlaya\OneDrive\Documentos\UCAB\Desarrollo\Taller 2\Ejercicio 1\Solucion 1\Solucion 1\obj\Debug\net6.0\ref\Solucion 1.dll
